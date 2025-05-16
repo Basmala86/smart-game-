@@ -52,7 +52,7 @@ Steps
 Clone the repository:
 
 sh
-git clone [https://github.com/yourusername/pathfinding-game.git](https://github.com/Basmala86/smart-game-.git)
+git clone https://github.com/Basmala86/smart-game-.git
 cd pathfinding-game
 Install dependencies:
 
